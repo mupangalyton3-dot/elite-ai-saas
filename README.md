@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Elite Engineering AI SaaS</h1>
 <p align="center">
-  AI-powered SaaS platform transforming [your niche]
+  AI-powered SaaS platform transforming [Engineering]
 </p>
 
 <p align="center">
