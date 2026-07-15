@@ -60,12 +60,6 @@ AI-powered engineering optimization platform with:
 ### 🔹 Typing Animation Header
 Add this at the top:
 
-```md
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+SaaS+Platform;Built+for+Scale;Powered+by+Machine+Learning" />
-</p>
-
----
 
 ## ✨ Features
 
@@ -74,24 +68,6 @@ Add this at the top:
 - ⚡ Lightning-fast UI (Next.js / React)
 - 📊 Smart analytics dashboard
 - ☁️ Cloud-native deployment
-
----
-
-## 🧠 Tech Stack
-
-```bash
-Frontend: Next.js / React / Tailwind
-Backend: Node.js / Express
-Database: MongoDB / PostgreSQL
-ML: Python (Scikit-learn / TensorFlow)
-Deployment: Vercel / AWS / Docker
----
-
-## 🚀 Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run dashboard_app.py
 
 🎯 Vision
 
