@@ -1,8 +1,3 @@
-```md
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+SaaS+Platform;Built+for+Scale;Powered+by+Machine+Learning" />
-</p>
-
 <h1 align="center">🚀 Elite Engineering AI SaaS</h1>
 <p align="center">
   AI-powered SaaS platform transforming [Engineering]
@@ -58,6 +53,17 @@ AI-powered engineering optimization platform with:
 - SQLite
 
 
+---
+
+# ✨ 2. Add Animations & Premium Touch
+
+### 🔹 Typing Animation Header
+Add this at the top:
+
+```md
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+SaaS+Platform;Built+for+Scale;Powered+by+Machine+Learning" />
+</p>
 
 ---
 
