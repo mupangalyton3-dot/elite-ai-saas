@@ -1,3 +1,26 @@
+<h1 align="center">🚀 Your Product Name</h1>
+<p align="center">
+  AI-powered SaaS platform transforming [your niche]
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/mupangalyton3-dot/elite-ai-saas?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/mupangalyton3-dot/elite-ai-saas?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/mupangalyton3-dot/elite-ai-saas?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
+</p>
+
+---
+
+## 🌐 Live Demo
+👉 [Try the App](https://elite-engineering-suite-wfuewditrdkzashsdia7tp.streamlit.app/)
+
+---
+
+## 🎥 Demo Preview
+<img src="elite_engineering_saas_ai.png" width="100%" />
+
 # elite-ai-saas
 AI-powered engineering optimization SaaS with ML, cost modeling, and carbon analytics
 # 🚀 Elite AI SaaS
@@ -29,28 +52,7 @@ AI-powered engineering optimization platform with:
 - Scikit-learn
 - SQLite
 
-<h1 align="center">🚀 Your Product Name</h1>
-<p align="center">
-  AI-powered SaaS platform transforming [your niche]
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/mupangalyton3-dot/elite-ai-saas?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/mupangalyton3-dot/elite-ai-saas?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/mupangalyton3-dot/elite-ai-saas?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
-</p>
-
----
-
-## 🌐 Live Demo
-👉 [Try the App](https://elite-engineering-suite-wfuewditrdkzashsdia7tp.streamlit.app/)
-
----
-
-## 🎥 Demo Preview
-<img src="elite_engineering_saas_ai.png" width="100%" />
 
 ---
 
