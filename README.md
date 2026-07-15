@@ -52,15 +52,6 @@ AI-powered engineering optimization platform with:
 - Scikit-learn
 - SQLite
 
-
----
-
-# ✨ 2. Add Animations & Premium Touch
-
-### 🔹 Typing Animation Header
-Add this at the top:
-
-
 ## ✨ Features
 
 - 🔐 Secure Authentication (JWT / OAuth)
