@@ -19,7 +19,7 @@
 ---
 
 ## 🎥 Demo Preview
-<img src="elite_engineering_saas_ai.png" width="100%" />
+<img src1="elite_engineering_saas_ai.png" width="100%" />
 
 # elite-ai-saas
 AI-powered engineering optimization SaaS with ML, cost modeling, and carbon analytics
